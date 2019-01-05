@@ -1,0 +1,13 @@
+{
+"characters": "",
+"size": 12,
+"hinting": "AutoSlight",
+"color": "white",
+"colorValue": -1,
+"gamma": 1.2,
+"renderCount": 4,
+"borderGamma": 1,
+"kerning": true,
+"minFilter": "Linear",
+"magFilter": "Linear"
+}
