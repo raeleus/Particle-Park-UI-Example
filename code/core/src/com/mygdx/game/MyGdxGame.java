@@ -29,7 +29,7 @@ public class MyGdxGame extends ApplicationAdapter {
     
     @Override
     public void create() {
-        skin = new Skin(Gdx.files.local("Particle Park UI.json"));
+        skin = new Skin(Gdx.files.internal("Particle Park UI.json"));
         
         stage = new Stage(new ScreenViewport());
         Gdx.input.setInputProcessor(stage);
